@@ -5,7 +5,7 @@ This repository contains the supplementary materials to the paper:
 
 
 ## What is this repository for?
-
+This repository contains the audio files used in the study described in the paper above. It also provides the data and information needed to reproduce the audio samples.
 
 
 ## Requirements
@@ -23,18 +23,17 @@ For more information regarding each type of syntheses, see the "Info.txt" files 
 ## File description
 
 This repository is organized the following way:
-- `` README.md`` .
 - ``supplementary materials`` Contains all relevant audio files used in the experiments as well as data and information needed to reproduce the samples.
 
   ``└─── Name of the synthesis system`` Contains all audio samples of a specific type.
   
-    ``└─── "Name of the utterance".wav`` Contains the VTL version 2.3 speaker files.
+  - ``└─── "Name of the utterance".wav`` Contains the VTL version 2.3 speaker files.
 
-  ``    └─── Info.txt`` Contains the VTL version 2.3 speaker files.
+  - ``└─── Info.txt`` Contains the VTL version 2.3 speaker files.
 
-  ``    └─── (If necessary) data`` Contains the VTL version 2.3 speaker files.
+  - ``└─── (If necessary) data`` Contains the VTL version 2.3 speaker files.
   
-  ``       └─── "Name of the utterance".datafile`` Contains the VTL version 2.3 speaker files.
+    - ``└─── "Name of the utterance".datafile`` Contains the VTL version 2.3 speaker files.
   
   ``└─── Example sentence`` Used at the beginning of the listening experiment, in order to set the volume level.
 
