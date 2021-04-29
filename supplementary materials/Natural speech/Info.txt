@@ -1,0 +1,4 @@
+﻿For the natural samples, a non-professional 27-year-old male speaker was recorded at a samplerate of 44.1 kHz.
+For the recordings a "Microtech Gefell M930" microphone was used. It was connected to a "Behringer Eurorack MX 1602" 
+that was used as a preamplifier. The Eurorack was then connected to a "MOTU 896 HD" audio interface which was connected
+to a PC via Firewire.

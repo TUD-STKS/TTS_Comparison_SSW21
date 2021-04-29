@@ -1,0 +1,14 @@
+﻿The "MBROLA-Resynthesis" samples were created using the open source software MBROLA:
+
+https://github.com/numediart/MBROLA
+
+The samples were synthesized in order to match the phone durations and the pitch of natural speech recordings.
+The ".pho" data files (in the subfolder "./MBROLA-Resynthesis/data/") contain the information neccessary to reproduce the audio samples.
+
+Important information regarding the resynthesis with MBROLA:
+•	For the MBROLA resynthesis, exactly the same phone durations were used as in the VocalTractLab resynthesis (which was done first). 
+	The VTL phone durations can be found in the ".seg" files (see subfolder "./VTL-Resynthesis/data/").
+•	The database on the male German speaker "de2" does not contain a glottal stop. Existing glottal stops in the ".seg" files used in the 
+	VTL resynthesis were split half and half between the left and right neighbouring sounds.
+•	Secondary diphthongs such as "o:6" were broken down into the two individual vowels, each with half the total duration.
+•	For the f0 contour, on average as many f0 support points were used as there are phones in the utterance.

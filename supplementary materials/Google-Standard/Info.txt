@@ -1,0 +1,12 @@
+The "Google-Standard" samples were created via the Google Cloud text-to-speech online demo at
+
+https://cloud.google.com/text-to-speech (visited 22.01.2021)
+
+using the following settings:
+
+Language:      Deutsch (Deutschland)
+Voice type:    Basic
+Voice name:    de-DE-Standard-B
+Speed:         1.00
+Pitch:         0.00
+Audio device profile: Default

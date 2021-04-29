@@ -1,0 +1,11 @@
+The "dfki-hmm" samples were created via the MARY TTS text-to-speech web client at
+
+http://mary.dfki.de:59125/ (visited 22.01.2021)
+
+using the following settings:
+
+Input Type:    TEXT
+Output Type:   AUDIO
+Voice:         dfki-pavoque-neutral-hsmm de male hmm
+Audio-Out:     WAVE_FILE
+Audio Effects: All effects were turned off (default)

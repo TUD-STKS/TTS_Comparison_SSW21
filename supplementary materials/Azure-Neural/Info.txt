@@ -1,0 +1,11 @@
+The "Azure-Neural" samples were created via the Microsoft Azure text-to-speech online demo at
+
+https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech (visited 09.02.2021)
+
+using the following settings:
+
+Language:       German (Germany)
+Voice:          Conrad (Neural)
+Voice Style:    General
+Speaking speed: 1.00
+Pitch:          0.00

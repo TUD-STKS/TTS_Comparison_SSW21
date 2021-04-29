@@ -1,0 +1,10 @@
+﻿The "DRESS" samples were created using the text-to-speech framework DRESS that described in the following publication:
+
+•	Hoffmann, R., Hirschfeld, D., Jokisch, O., Kordon, U., Mixdorff, H., & Mehnert, D. (1999). 
+	Evaluation of a multilingual TTS system with respect to the prosodic quality. In Proc. ICPhS 1999, pp. 2307-2310.
+
+We used the version DRESS 2001 (pure diphon-synthesis using the TD-PSOLA algorithm), with the following settings:
+
+Voice:      male (Jörg)
+Rythmn:     Klatt
+Intonation: Fujisaki (dt)

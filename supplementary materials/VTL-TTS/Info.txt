@@ -1,0 +1,15 @@
+﻿The "VTL-TTS" samples were created using the open source software VocalTractLab (VTL):
+
+https://vocaltractlab.de/
+
+In order to create the segment sequences (".seg" files) and gestural scores (".ges" files) that are needed for the articulatory synthesis with VTL,
+a VTL-TTS pipeline as described in 
+"S. Stone et al., “Prospects of articulatory text-to-speech synthesis,” in Proc. ISSP, 2020 (Accepted)" was used.
+
+
+
+
+The ".seg" and ".ges" data files (in the subfolder "./VTL-Resynthesis/data/") contain the information neccessary to reproduce the audio samples.
+
+To synthesize a sample, open the VTL GUI and click "File"->"Load Gestural Score"->"Synthesize".
+For more detailed instructions how to use VTL, see the VTL manual.

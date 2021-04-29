@@ -1,0 +1,9 @@
+﻿The "VTL-Resynthesis" samples were created using the open source software VocalTractLab (VTL):
+
+https://vocaltractlab.de/
+
+The samples were synthesized in order to match the phone durations and the pitch of natural speech recordings.
+The ".seg" and ".ges" data files (in the subfolder "./VTL-Resynthesis/data/") contain the information neccessary to reproduce the audio samples.
+
+To synthesize a sample, open the VTL GUI and click "File"->"Load Gestural Score"->"Synthesize".
+For more detailed instructions how to use VTL, see the VTL manual.
