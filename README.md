@@ -28,7 +28,7 @@ This repository is organized the following way:
 
   ``└─── Name of the synthesis system`` Contains all audio samples of a specific type.
   
-  ``    └─── "Name of the utterance".wav`` Contains the VTL version 2.3 speaker files.
+    ``└─── "Name of the utterance".wav`` Contains the VTL version 2.3 speaker files.
 
   ``    └─── Info.txt`` Contains the VTL version 2.3 speaker files.
 
